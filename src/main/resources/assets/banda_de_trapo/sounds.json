@@ -1,0 +1,21 @@
+{
+  "sonido.anunciarnumero": { "category": "master", "sounds": ["banda_de_trapo:anunciarnumero"] },
+  "sonido.colocarnumero": { "category": "master", "sounds": ["banda_de_trapo:colocarnumero"] },
+  "sonido.idle": { "category": "master", "sounds": ["banda_de_trapo:idle"] },
+  "sonido.lose": { "category": "master", "sounds": ["banda_de_trapo:lose"] },
+  "sonido.pass": { "category": "master", "sounds": ["banda_de_trapo:pass"] },
+  "sonido.periquitoperiquito": { "category": "master", "sounds": ["banda_de_trapo:periquitoperiquito"] },
+  "sonido.sfx1": { "category": "master", "sounds": ["banda_de_trapo:sfx1"] },
+
+  "sonido.numero_1": { "category": "master", "sounds": ["banda_de_trapo:numero_1"] },
+  "sonido.numero_2": { "category": "master", "sounds": ["banda_de_trapo:numero_2"] },
+  "sonido.numero_3": { "category": "master", "sounds": ["banda_de_trapo:numero_3"] },
+  "sonido.numero_4": { "category": "master", "sounds": ["banda_de_trapo:numero_4"] },
+  "sonido.numero_5": { "category": "master", "sounds": ["banda_de_trapo:numero_5"] },
+  "sonido.numero_6": { "category": "master", "sounds": ["banda_de_trapo:numero_6"] },
+  "sonido.numero_7": { "category": "master", "sounds": ["banda_de_trapo:numero_7"] },
+  "sonido.numero_8": { "category": "master", "sounds": ["banda_de_trapo:numero_8"] },
+  "sonido.numero_9": { "category": "master", "sounds": ["banda_de_trapo:numero_9"] },
+  "sonido.numero_10": { "category": "master", "sounds": ["banda_de_trapo:numero_10"] },
+  "sonido.numero_11": { "category": "master", "sounds": ["banda_de_trapo:numero_11"] }
+}

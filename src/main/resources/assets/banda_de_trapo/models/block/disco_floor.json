@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "banda_de_trapo:block/disco_floor"
+  }
+}

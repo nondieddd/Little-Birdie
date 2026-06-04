@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "banda_de_trapo",
+  "version": "1.0.0",
+  "name": "Periquito",
+
+  "entrypoints": {
+    "main": [
+      "org.nondied.banda_de_trapo.Banda_de_trapo"
+    ],
+    "client": [
+      "org.nondied.banda_de_trapo.client.Banda_de_trapoClient"
+    ]
+  },
+
+  "mixins": [
+    "banda_de_trapo.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "fabric-api": "*",
+    "minecraft": "1.21.1",
+    "geckolib": "*"
+  }
+}

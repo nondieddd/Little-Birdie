@@ -1,0 +1,33 @@
+{
+  "format": "POSITION_COLOR_TEX_LIGHTMAP",
+  "mode": "QUADS",
+  "bufferSize": "TRANSIENT",
+  "sort": false,
+  "affectsCrumbling": false,
+  "outline": false,
+  "layers": [
+    {
+      "type": "veil:shader",
+      "name": "banda_de_trapo:disco_shader"
+    },
+    {
+      "type": "minecraft:transparency",
+      "mode": "none"
+    },
+    {
+      "type": "minecraft:depth_test",
+      "mode": "lequal"
+    },
+    {
+      "type": "minecraft:cull"
+    },
+    {
+      "type": "minecraft:lightmap"
+    },
+    {
+      "type": "minecraft:write_mask",
+      "color": true,
+      "depth": true
+    }
+  ]
+}
